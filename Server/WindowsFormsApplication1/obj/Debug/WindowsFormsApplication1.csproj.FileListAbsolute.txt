@@ -1,0 +1,11 @@
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\bin\Debug\ClassLibrary1.dll
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\bin\Debug\ClassLibrary1.pdb
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+c:\users\rm0026\documents\visual studio 2012\Projects\Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+C:\Users\rm0026\Documents\Visual Studio 2012\Projects\Server\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
